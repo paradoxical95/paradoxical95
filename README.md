@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C++/C, CUDA, Python, Game Development & Linux**
 
-<!- 📫 How to reach me **varunverma.gtr@gmail.com** -->
+<!- 📫 How to reach me **varunverma.gtr@gmail.com** -- -->
 
 - ⚡ Fun fact **I'm a fan of first person games**
 
