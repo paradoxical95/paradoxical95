@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch Framwork**
 
-- 💬 Ask me about **C++/C, CUDA, Python, Game Development and Linux**
+- 💬 Ask me about **C++/C, CUDA, Python, Game Development & Linux**
 
 - 📫 How to reach me **varunverma.gtr@gmail.com**
 
