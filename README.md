@@ -2,9 +2,9 @@
 <h3 align="center">A passionate C++ developer from India</h3>
 <h4 align="center">https://paradoxical95.github.io/</h4>
 
-- 🔭 I’m currently working on **Image Recognition model and LLM**
+<!-- 🔭 I’m currently working on **Image Recognition model and LLM** -->
 
-- 🌱 I’m currently learning **PyTorch Framework**
+<!-- 🌱 I’m currently learning **PyTorch Framework** -->
 
 - 💬 Ask me about **C++/C, CUDA, Python, Game Development & Linux**
 
