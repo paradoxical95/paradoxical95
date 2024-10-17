@@ -2,7 +2,7 @@
 <h3 align="center">A passionate C++ developer from India</h3>
 <h4 align="center">https://paradoxical95.github.io/</h4>
 
-- 🔭 I’m currently working on **Siege GPT**
+- 🔭 I’m currently working on **Image Recognition model and LLM**
 
 - 🌱 I’m currently learning **PyTorch Framework**
 
